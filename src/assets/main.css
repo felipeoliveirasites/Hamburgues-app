@@ -27,7 +27,7 @@ body {
   margin: 50px;
   min-height: 250px;
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column wrap;
   justify-content: center;
   
   max-width: 1200px; 
@@ -45,6 +45,7 @@ body {
     margin-bottom: 30px;
     color: var(--escuro);
 }
+
 
 /* 
 #app {
