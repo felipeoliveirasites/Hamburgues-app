@@ -41,6 +41,8 @@ body {
     text-align: center;
    
     font-size: 42px;
+    font-weight: bold;
+    
     color: red;
     margin-bottom: 30px;
     color: var(--escuro);
