@@ -1,85 +1,166 @@
 {
-    "ingredientes": {
-      "paes": [
-        {
-          "id": 1,
-          "tipo": "Italiano Branco"
-        },
-        {
-          "id": 2,
-          "tipo": "3 Queijos"
-        },
-        {
-          "id": 3,
-          "tipo": "Parmesão e Orégano"
-        },
-        {
-          "id": 4,
-          "tipo": "Integral"
-        },
-        {
-          "id": 5,
-          "tipo": "Pão Mexicano"
-        }
-      ],
-      "carnes": [
-        {
-          "id": 1,
-          "tipo": "Maminha"
-        },
-        {
-          "id": 2,
-          "tipo": "Alcatra"
-        },
-        {
-          "id": 3,
-          "tipo": "Picanha"
-        },
-        {
-          "id": 4,
-          "tipo": "Veggie burger"
-        }
-      ],
-      "opcionais": [
-        {
-          "id": 1,
-          "tipo": "Bacon"
-        },
-        {
-          "id": 2,
-          "tipo": "Cheddar"
-        },
-        {
-          "id": 3,
-          "tipo": "Salame"
-        },
-        {
-          "id": 4,
-          "tipo": "Tomate"
-        },
-        {
-          "id": 4,
-          "tipo": "Cebola roxa"
-        },
-        {
-          "id": 4,
-          "tipo": "Pepino"
-        }
-      ]
-    },
-    "status": [
+  "ingredientes": {
+    "paes": [
       {
         "id": 1,
-        "tipo": "Solicitado"
+        "tipo": "Italiano Branco"
       },
       {
         "id": 2,
-        "tipo": "Em produção"
+        "tipo": "3 Queijos"
       },
       {
         "id": 3,
-        "tipo": "Finalizado"
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      },
+      {
+        "id": 5,
+        "tipo": "Pão Mexicano"
       }
     ],
-    "burgers": [ ]
-  }
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Solicitado"
+    },
+    {
+      "id": "2",
+      "tipo": "Em produção"
+    },
+    {
+      "id": "3",
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "id": "74",
+      "name": null,
+      "carne": "",
+      "pao": "",
+      "opcionais": [],
+      "status": "Solicitado"
+    },
+    {
+      "id": "81",
+      "name": "",
+      "carne": "",
+      "pao": "",
+      "opcionais": [],
+      "status": "Em produção"
+    },
+    {
+      "id": "83",
+      "name": "",
+      "carne": "",
+      "pao": "",
+      "opcionais": [],
+      "status": "Em produção"
+    },
+    {
+      "id": "84",
+      "name": "",
+      "carne": "",
+      "pao": "",
+      "opcionais": [],
+      "status": "Solicitado"
+    },
+    {
+      "id": "87",
+      "name": "",
+      "carne": "",
+      "pao": "",
+      "opcionais": [],
+      "status": "Finalizado"
+    },
+    {
+      "id": "88",
+      "name": "",
+      "carne": "",
+      "pao": "",
+      "opcionais": [],
+      "status": "Em produção"
+    },
+    {
+      "id": "89",
+      "name": "",
+      "carne": "",
+      "pao": "",
+      "opcionais": [],
+      "status": "Solicitado"
+    },
+    {
+      "id": "93",
+      "name": "",
+      "carne": "",
+      "pao": "",
+      "opcionais": [],
+      "status": "Solicitado"
+    },
+    {
+      "id": "96",
+      "name": "",
+      "carne": "",
+      "pao": "",
+      "opcionais": [],
+      "status": "Solicitado"
+    },
+    {
+      "id": "97",
+      "name": null,
+      "carne": "",
+      "pao": "",
+      "opcionais": [],
+      "status": "Solicitado"
+    }
+  ]
+}

@@ -45,6 +45,8 @@ export default {
   .wrapper
     width: 100%
 
+    $primary-color: #3498db
+
 
   /* div.wrapper2
     display: flex
